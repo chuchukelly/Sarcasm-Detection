@@ -1,8 +1,8 @@
 ## CS 461 - Final Project
 
 Project Members:
+Kelly Xu (nx27) 
 Rija Khan (rk1047)
-Kelly Xu (nx27)
 
 Contents of this project:
 * experiments: the 2 models that were created for experimentation
